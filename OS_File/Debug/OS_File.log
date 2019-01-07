@@ -1,0 +1,7 @@
+﻿  源1.cpp
+c:\users\香喷喷大猪蹄子\source\repos\os_file\os_file\源1.cpp(392): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\香喷喷大猪蹄子\source\repos\os_file\os_file\源1.cpp(509): warning C4326: “main”的返回类型应为“int”而非“void”
+c:\users\香喷喷大猪蹄子\source\repos\os_file\os_file\源1.cpp(67): warning C4715: “findDentry”: 不是所有的控件路径都返回值
+c:\users\香喷喷大猪蹄子\source\repos\os_file\os_file\源1.cpp(104): warning C4715: “findEmptyNode”: 不是所有的控件路径都返回值
+c:\users\香喷喷大猪蹄子\source\repos\os_file\os_file\源1.cpp(109): warning C4715: “findEmptyBlock”: 不是所有的控件路径都返回值
+  OS_File.vcxproj -> C:\Users\香喷喷大猪蹄子\source\repos\OS_File\Debug\OS_File.exe
