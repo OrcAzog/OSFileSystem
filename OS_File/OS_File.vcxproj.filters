@@ -15,17 +15,31 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="源.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="源1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="源2.cpp">
+    <ClCompile Include="utils.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="源3.cpp">
+    <ClCompile Include="applicationLayer.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="PhysicalLayer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="utils.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysicalLayer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="applicationLayer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="structs.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
